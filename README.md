@@ -1,4 +1,4 @@
-# sql_name-
-A collection of my sample SQL files.
+Hi, I'm Deandre!
+A collection of my sample SQL files and projects.
 
 
