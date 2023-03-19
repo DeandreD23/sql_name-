@@ -1,3 +1,3 @@
 Hi, I'm Deandre!
-OOOO
 
+A collection of my SQL samples and projects.
